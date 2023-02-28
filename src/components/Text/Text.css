@@ -1,0 +1,19 @@
+.container__text {
+  padding: 40px;
+  background-color: #ffffff9c;
+  text-align: center;
+  width: 26rem;
+  user-select: none;
+}
+
+.autor {
+  margin-top: 1rem;
+  text-align: end;
+}
+
+@media (min-width: 700px) {
+  .container__text {
+    padding: 40px;
+    width: 55rem;
+  }
+}

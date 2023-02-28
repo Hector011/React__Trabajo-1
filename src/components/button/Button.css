@@ -1,0 +1,16 @@
+.contenedor__img {
+  width: 20rem;
+  display: flex;
+}
+
+.bx-message-dots {
+  margin-top: 1rem;
+  font-size: 40px;
+  cursor: pointer;
+  transition: 0.5s;
+  border-radius: 15px;
+}
+
+.bx-message-dots:hover {
+  background-color: #ffffff9c;
+}
